@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToDataTable", "ExcelToDataTable.csproj", "{1FF6958D-4492-436F-99B1-D9CAD9DD0E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF6958D-4492-436F-99B1-D9CAD9DD0E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF6958D-4492-436F-99B1-D9CAD9DD0E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF6958D-4492-436F-99B1-D9CAD9DD0E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF6958D-4492-436F-99B1-D9CAD9DD0E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306A1441-EF78-4C7D-A21E-6B4406D3F3DD}
+	EndGlobalSection
+EndGlobal
